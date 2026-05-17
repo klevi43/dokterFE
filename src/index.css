@@ -1,4 +1,13 @@
-@import "tailwindcss"; /* :root {
+@import "tailwindcss";
+@theme {
+  --color-brand-50: #faf5ff;
+  --color-brand-100: #f3e8ff;
+  --color-brand-500: #a855f7;
+  --color-brand-600: #7c3aed;
+  --color-brand-700: #6d28d9;
+  --color-brand-900: #4c1d95;
+}
+/* :root {
   --text: #6b6375;
   --text-h: #08060d;
   --bg: #fff;
