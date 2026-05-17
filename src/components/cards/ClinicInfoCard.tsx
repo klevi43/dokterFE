@@ -7,7 +7,7 @@ interface Props {
 const ClinicInfoCard = ({ clinicInfo }: Props) => {
   return (
     <>
-      <div className="flex flex-col bg-brand-50 gap-6 border-2 px-2 py-4 text-gray-400 rounded-t-4xl">
+      <div className="flex flex-col bg-slate-50 gap-6 border-2 px-2 py-4 text-gray-400 rounded-t-4xl">
         <div>
           <div className="flex flex-col  text-gray-700">
             <div className="flex justify-between">
